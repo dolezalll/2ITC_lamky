@@ -19,7 +19,7 @@
      <tr>
       <td>ADAM</td>
       <td>DOLEŽAL</td>
-      <td>2ITC wtf</td>
+      <td>2ITC</td>
     </tr>
   </table>
   </body>
